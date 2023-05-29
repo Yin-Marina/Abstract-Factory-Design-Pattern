@@ -1,0 +1,1 @@
+This application implements the Java abstract factory design pattern.
